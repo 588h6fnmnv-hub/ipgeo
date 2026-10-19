@@ -1,0 +1,14 @@
+/Users/shalinmuhammed/ipgeo/ipgeo/bin/Debug/net10.0/ipgeo
+/Users/shalinmuhammed/ipgeo/ipgeo/bin/Debug/net10.0/ipgeo.deps.json
+/Users/shalinmuhammed/ipgeo/ipgeo/bin/Debug/net10.0/ipgeo.runtimeconfig.json
+/Users/shalinmuhammed/ipgeo/ipgeo/bin/Debug/net10.0/ipgeo.dll
+/Users/shalinmuhammed/ipgeo/ipgeo/bin/Debug/net10.0/ipgeo.pdb
+/Users/shalinmuhammed/ipgeo/ipgeo/obj/Debug/net10.0/ipgeo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shalinmuhammed/ipgeo/ipgeo/obj/Debug/net10.0/ipgeo.AssemblyInfoInputs.cache
+/Users/shalinmuhammed/ipgeo/ipgeo/obj/Debug/net10.0/ipgeo.AssemblyInfo.cs
+/Users/shalinmuhammed/ipgeo/ipgeo/obj/Debug/net10.0/ipgeo.csproj.CoreCompileInputs.cache
+/Users/shalinmuhammed/ipgeo/ipgeo/obj/Debug/net10.0/ipgeo.dll
+/Users/shalinmuhammed/ipgeo/ipgeo/obj/Debug/net10.0/refint/ipgeo.dll
+/Users/shalinmuhammed/ipgeo/ipgeo/obj/Debug/net10.0/ipgeo.pdb
+/Users/shalinmuhammed/ipgeo/ipgeo/obj/Debug/net10.0/ipgeo.genruntimeconfig.cache
+/Users/shalinmuhammed/ipgeo/ipgeo/obj/Debug/net10.0/ref/ipgeo.dll
