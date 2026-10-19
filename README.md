@@ -23,7 +23,7 @@ A simple, free, open-source terminal tool to look up IP address geolocation and 
 Or build from source:
 
 ```bash
-git clone https://github.com/yourusername/ipgeo
+git clone https://github.com/588h6fnmnv-hub/ipgeo
 cd ipgeo
 dotnet publish -c Release -r osx-arm64 --self-contained true -p:PublishSingleFile=true -o ./publish
 ```

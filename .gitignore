@@ -1,0 +1,22 @@
+# Build artifacts
+bin/
+obj/
+publish/
+publish-linux/
+publish-win/
+*.pdb
+
+# IDE
+.vs/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.dll
+*.exe
+*.dylib
